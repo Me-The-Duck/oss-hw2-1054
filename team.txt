@@ -1,3 +1,3 @@
 project: oss-hw2-1054
 owner: yooseungjae
-status: main-yooseungjae
+status: merged-1054 by yooseungjae
